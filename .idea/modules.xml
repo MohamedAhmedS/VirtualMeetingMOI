@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VirtualMeetingMOI.iml" filepath="$PROJECT_DIR$/.idea/modules/VirtualMeetingMOI.iml" group="VirtualMeetingMOI" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="VirtualMeetingMOI/app" />
+      <module fileurl="file://$PROJECT_DIR$/statusstories/statusstories.iml" filepath="$PROJECT_DIR$/statusstories/statusstories.iml" group="VirtualMeetingMOI/statusstories" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713617528442",
+    "firebase_url": "https://virtual-meeting-moi-app.firebaseio.com",
+    "project_id": "virtual-meeting-moi-app",
+    "storage_bucket": "virtual-meeting-moi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713617528442:android:6bed4abe5963dcce370dc3",
+        "android_client_info": {
+          "package_name": "virtual.meeting.moi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713617528442-cvliv2pk8m0jf7tfpccsf4hiu4mt6moe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "virtual.meeting.moi",
+            "certificate_hash": "2d42f0cac13dc78ea3bdf93c5ad20c0366546f96"
+          }
+        },
+        {
+          "client_id": "713617528442-d0efa1s5ji8avrceifa5pqatulfn4ehn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RK231LMjebbWLWtuJ9ehQJcUJicM_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713617528442-d0efa1s5ji8avrceifa5pqatulfn4ehn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

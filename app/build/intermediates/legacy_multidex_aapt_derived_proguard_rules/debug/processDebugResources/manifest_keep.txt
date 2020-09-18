@@ -1,0 +1,2 @@
+# Referenced at C:\Users\Admin\Desktop\VirtualMeetingMOI\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:32
+-keep class virtual.meeting.moi.BaseApplication { <init>(...); }
